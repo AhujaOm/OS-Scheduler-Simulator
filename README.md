@@ -6,7 +6,7 @@ Instead of simulating abstract processes with numbers, this application uses an 
 
 ## Demo
 
-`![Visual CPU Simulator Demo](screenshots/demo.gif)`
+![Visual CPU Simulator Demo](screenshot/simulator_tutorial.gif)
 
 ---
 
