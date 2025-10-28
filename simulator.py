@@ -463,7 +463,7 @@ class VisualSchedulingSimulator:
         if self.current_process is None:
             if self.ready_queue:
                 # Select process based on algorithm
-                if self.selected_algorithm in ["FCFS", "RR"]:
+                if self.selected_algorithm in ["FCFS", "Round Robin"]:
                     self.current_process = self.ready_queue.popleft()
                 elif self.selected_algorithm == "SJF":
                     self.current_process = self.ready_queue.popleft() # Already sorted
@@ -714,5 +714,3 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = VisualSchedulingSimulator(root)
     root.mainloop()
-
-
