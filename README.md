@@ -74,6 +74,6 @@ Instead of simulating abstract processes with numbers, this application uses an 
 
 This project was a collaborative effort by:
 
-* [AhujaOm](https://github.com/AhujaOm)
-* [RikinParekh15147](https://github.com/RikinParekh15147)
-* [mitkdarji](https://github.com/mitkdarji)
+* Om Ahuja - [AhujaOm](https://github.com/AhujaOm)
+* Rikin Parekh - [RikinParekh15147](https://github.com/RikinParekh15147)
+* Mit Darji - [mitkdarji](https://github.com/mitkdarji)
